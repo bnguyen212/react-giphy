@@ -10,7 +10,7 @@ Front End coding challenge.
 - Look inside of the config folder and check out the config.js inside it. You will notice that we are exporting an object here with an API_KEY property. Put your Giphy API key inside there.
 - Uncomment config in the .gitignore file. This is so that we can hide our API key from hackers. This is another way to set environmental variables without using source env.sh
 - Take a look inside components/app.js You should see that we are requiring our API_KEY from that config file. Take a look at how we are using that key here.
-- Take a look inside package.json. You will see that we have a serve-dev command that bundles up our app. Run that command using npm serve-dev.
+- Take a look inside package.json. You will see that we have a serve-dev command that bundles up our app. Run that command using npm run serve-dev.
 - Go to localhost:8080. If everything was done correctly, you should see 2 console.logs in the browser console. The response object from the request to Giphy's api and the new state. Make sure you take a good look at the response and data object.
 - Make sure you read through Giphy's API [docs](https://developers.giphy.com/docs/). More specifically the search and trending endpoints.
 - Take a look inside components/app.js. Note at how we are building our URL to query here.
