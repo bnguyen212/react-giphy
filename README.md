@@ -7,7 +7,7 @@ Front End coding challenge.
 - Create and switch to your own branch. git checkout -b your-name-here
 - Run npm install.
 - Sign up for a Giphy API key on [Giphy](https://giphy.com/).
-- Look inside iof the config folder and check out the config.js inside it. You will notice that we are exporting an object here with an API_KEY property. Put your Giphy API key inside there.
+- Look inside of the config folder and check out the config.js inside it. You will notice that we are exporting an object here with an API_KEY property. Put your Giphy API key inside there.
 - Uncomment config in the .gitignore file. This is so that we can hide our API key from hackers. This is another way to set environmental variables without using source env.sh
 - Take a look inside components/app.js You should see that we are requiring our API_KEY from that config file. Take a look at how we are using that key here.
 - Take a look inside package.json. You will see that we have a serve-dev command that bundles up our app. Run that command using npm serve-dev.
