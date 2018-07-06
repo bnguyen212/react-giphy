@@ -30,10 +30,8 @@ We would like you to build a web app that displays the trending GIFs on [Giphy](
 Users visiting the website should be able to search for GIFs and see a list of results. The user should be able to expand a GIF and see its details (username, rating, anything you think could be relevant).
 
 ### Additional features to implement
-- Make your app as modular as possible. Try to use functional components where you can reuse them.
 - Sort the results by uploaded time and let the user choose if they prefer ascending or descending ordering.
 - Let the user favorite GIFs and list their favorites. The users should be able to retrieve their favorite GIFs even after refreshing the page.
-
 
 
 This project is pretty open ended in order to leave you some freedom to improve upon the base by focusing on what you like the most.
@@ -44,3 +42,4 @@ We strongly encourage you to pick a couple of optional improvements. The followi
 - Let the user upload a GIF.
 - Show off your animation skills!
 - Create a mosaic layout and display a placeholder when GIFs are still loading.
+- Make your app as modular as possible. Try to use functional components where you can reuse them.
