@@ -1,6 +1,6 @@
 # Giphy Front End Homework
 
-Front End coding challenge.
+Front End coding challenge adapted from high growth Bay Area company. 
 
 ## Steps before starting
 - Clone this repo.
