@@ -2,4 +2,5 @@ node_modules
 package-lock.json
 env.sh
 build/app.bundle.js
-config
+config.js
+.DS_Store

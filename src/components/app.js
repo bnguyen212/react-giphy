@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import ReactModal from 'react-modal';
-import {API_KEY} from './../../config/config';
+import {API_KEY} from './../../config';
 import Gif from './gif';
 import SearchBar from './search';
 import Info from './info'
